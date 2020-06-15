@@ -1,3 +1,7 @@
+---
+sidebarDepth: 3
+---
+
 # Templates
 
 Databrary has created a number of template documents, sample scripts, and videos that researchers can use as they see fit.
@@ -6,7 +10,7 @@ Databrary has created a number of template documents, sample scripts, and videos
 
 In order to share identifiable data on Databrary Authorized Investigators must secure permission from the people depicted in recordings or images.
 Databrary calls this data sharing permission a "release" since it involves releasing data for use by other researchers.
-Databrary recommends adapting the [Databrary Release Template](release-template.md) although the exact Databrary Release Template language is not required.
+Databrary recommends adapting the [Databrary Sharing Release Template](release-template.md) although the exact Databrary Sharing Release Template language is not required.
 The Databrary Release Template serves as a guideline.
 
 ::: tip NOTE
@@ -33,7 +37,7 @@ Here is a form for securing that permisson from research staff:
 > So we wanted to ask if you are comfortable with allowing us to share the data we collected from this session with other researchers just like the professor who runs this lab/project. The data would be shared in a secure, online library, it's not available to the public-- only researchers that are authorized by their University would be able to access the information in the library.
 > This permission form also asks whether you would allow other professors/ researchers like Dr. [PI’s Name] to show short bits of the videos to students or researchers for educational and scientific purposes. These data will not be used or shown for commercial purposes.
 
-###
+### Video examples
 
 Here are videos that show how a researcher may ask a parent permission to share data:
 

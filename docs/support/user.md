@@ -65,7 +65,7 @@ This is the list of file formats which Databrary currently accepts.
 Note that all video formats will be automatically transcoded to mp4 format.
 If you have files in other formats you wish to share, just contact us so that we can add appropriate handling.
 
-**Text Files**
+##### Text Files
 
 | Extension | Description of Data    |
 |-----------|------------------------|
@@ -75,14 +75,14 @@ If you have files in other formats you wish to share, just contact us so that we
 | cha       | Codes for the Human Analysis of Transcripts |
 | eaf       | ELAN - Linguistic Annotator |
 
-**Images**
+##### Images
 
 | Extension | Description of Data    |
 |-----------|------------------------|
 | png       | Portable network graphics |
 | jpg JPEG  | image                   |
 
-**Documents**
+##### Documents
 
 | Extension | Description of Data    |
 |-----------|------------------------|
@@ -100,7 +100,7 @@ If you have files in other formats you wish to share, just contact us so that we
 | sav  | SPSS System File |
 | its  | LENA Interpreted Time Segments |
 
-**Video**
+##### Video
 
 | Extension | Description of Data    |
 |-----------|------------------------|
@@ -113,7 +113,7 @@ If you have files in other formats you wish to share, just contact us so that we
 | dv      | Digital Interface Format video |
 | mp4      | MPEG-4 video           |
 
-**Audio**
+##### Audio
 
 | Extension | Description of Data    |
 |-----------|------------------------|
@@ -122,22 +122,28 @@ If you have files in other formats you wish to share, just contact us so that we
 | wma      | Windows Media audio    |
 | mp3      | MPEG-1 or MPEG-2 audio layer III |
 
-### Release levels
+### Sharing release levels
 
 To make it clear to participants and researchers the level of access
-granted to specific files, Databrary developed a set of standard release
+granted to specific files, Databrary developed a set of standard sharing release
 levels that are indicated with consistent icons and language across the
 site:
 
 - *Unknown*. Consent missing or not obtained. This content is not shared and access is restricted to specific people selected by an Authorized Investigator.
-- *Private*. This content is not shared and access is restricted to specific people selected by an Authorized Investigator. *Note*: This is the default for all files and must be specifically changed by an Authorized Investigator (or an Affiliate with suitable privileges).
+- *Private*. This content is not shared and access is restricted to specific people selected by an Authorized Investigator (Default).
 - *Authorized Users*. This content is restricted to authorized Databrary users (Authorized Investigators and Affiliates granted access to shared Databrary data) and may not be redistributed in any form.
 - *Learning Audiences*. This content is restricted to authorized Databrary users (Authorized Investigators and Affiliates granted access to shared Databrary data), who may use clips or images from it in presentations for informational or educational purposes. Note, such presentations may be videotaped or recorded and those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
 - *Public*. This content is available openly to anyone.
 
+::: tip NOTE
+All files uploaded to Databrary are labeled *Private* by default.
+This makes files visible only to the Authorized Investigator and specific users chosen by the Authorized Investigator *unless the Authorized Investigator chooses otherwise*.
+Each file's release level must be specifically changed by an Authorized Investigator (or an Affiliate with suitable privileges) before a file is shared more widely.
+:::
+
 All Authorized Investigators and Affiliates must follow the restrictions
 on uses indicated by these release levels.
-Furthermore, when using files released for access by *Learning Audiences,* Authorized Investigators and Affiliates must exercise professional judgment in deciding which clips or images to show to what audiences and in what contexts.
+Furthermore, when using files released for access by *Learning Audiences*, Authorized Investigators and Affiliates must exercise professional judgment in deciding which clips or images to show to what audiences and in what contexts.
 
 ### Non-research uses
 
@@ -218,7 +224,7 @@ a research ethics board for review or approval prior to signing the DAA.
 In that case, researchers may use the following language to communicate
 with a research ethics board.
 
-**Recommended Abstract language**
+##### Recommended Abstract language
 
 The purpose of this application is to access Databrary
 (<https://www.databrary.org/about/about-databrary.html),> a digital data
@@ -229,12 +235,12 @@ the available data and potentially develop a research project. After I
 have a research proposal, I will submit a new protocol for IRB review
 and determination.
 
-**Access to Identifiers**
+##### Access to Identifiers
 
 I will have access to dates directly related to an individual, including
 birth date, and full face photographic images and comparable images.
 
-**Purpose of accessing Databrary**
+##### Purpose of accessing Databrary
 
 The purpose of this application is to access Databrary
 (<https://www.databrary.org/about/about-databrary.html),> a digital data
@@ -270,7 +276,7 @@ You must still protect the data during pre-research or
 research planning as you normally would for these sorts of data as
 outlined in the Databrary Access Agreement.
 
-::: tip NOTE
+::: tip IS IT RESEARCH?
 Keep in mind the following definitions from the Code of Federal
 Regulations (CFR) in the United States:
 
@@ -321,7 +327,7 @@ Investigators can set each Affiliate\'s access to one of the following
 levels:
 
 - *No access*: Affiliate cannot access any of the Authorized
-    Investigator\'s data. This is the default.
+    Investigator\'s data (default).
 - *Read-only access*: Affiliate has view access to all of the
     Authorized Investigator\'s data. (The affiliate may view and
     download videos and other identifying information, including data
@@ -341,6 +347,10 @@ Accordingly, the Investigator must trust Affiliates granted this access
 and supervise and manage Affiliates granted these privileges. The
 Authorized Investigator must assign an expiration date to each
 Affiliate\'s access.
+
+::: tip NOTE
+Analogous to [file-level sharing](#sharing-release-levels), new Affiliates have no access to files until an Authorized Investigator grants them access.
+:::
 
 #### Affiliate access to Databrary
 
@@ -367,7 +377,7 @@ Authorized Investigator who supervises them.
 Only Authorized Investigators and Managers may create new datasets. Only
 Authorized Investigators may share datasets with others.
 
-#### Types of data
+#### Types of data shared
 
 ##### Non-sensitive/non-identifiable data or materials
 
@@ -619,73 +629,13 @@ institution. Authorized Investigators who are awaiting authorization
 from their new institution will have access to their own data but not to
 non-public data shared by other Authorized Investigators on Databrary.
 After an Authorized Investigator has secured approval from their new
-institution, full access privileges will be restored.
+institution, full access privileges to Databrary will be restored.
 
-Your access to Databrary is granted by executing a Databrary Access
-Agreement (DAA), a legally binding agreement between your institution
-and Databrary. If you plan to change institutions, you therefore MUST
-NOTIFY DATABRARY IMMEDIATELY so that we can execute a DAA with your new
-institution.
-
-You must:
-
-● Notify Databrary within ten (10) days of your intention to leave your
-current institution.
-
-● Act promptly to sign and submit any necessary paperwork to your new
-institution.
-
-If you do not have a signed DAA with your new institution within thirty
-(30) days of your start date, your access to Databrary will be
-terminated until such time as we have an executed agreement.
-
-As a reminder, your new institution must verify that:
-
-a\. it maintains an ethics or Institutional Review Board with
-U.S.-equivalent standards that reviews and approves research involving
-human subjects,
-
-b\. you have ethics training that addresses human subjects policy and
-issues,
-
-c\. you are eligible to conduct independent research at this institution
-and the institution accepts responsibility for its Authorized
-Investigators' actions related to the use of Databrary,
-
-d\. it grants you the authority to choose and manage affiliates who meet
-Databrary\'s qualifications and who agree to follow Databrary\'s ethical
-principles, and
-
-e\. the person executing this Access Agreement on behalf of the
-institution has the authority to do so.
-
-See the Databrary Access Agreement and Databrary\'s full policy on
-ethics oversight for more information. If your new institution does not
-meet these requirements, you will not be able to continue to access
-Databrary.
-
-What happens if I leave my institution and no longer have Authorized
-Investigator Status?
-
-Your access to Databrary is granted by executing a Databrary Access
-Agreement (DAA), a legally binding agreement between your institution
-and Databrary. If you plan to leave an institution and would no longer
-qualify to have Authorized Investigator Status, you MUST NOTIFY
-DATABRARY IMMEDIATELY.
-
-You must:
-
-- Notify Databrary within ten (10) days of your intention to leave your
-current institution.
-
-See the Databrary Access Agreement and Databrary\'s full policy on
-ethics oversight for more information. If your new institution does not
-meet these requirements, you will not be able to continue to access
-Databrary.
-
-Access to non-public data shared with other Authorized Investigators
-will be suspended when you leave your institution. This suspension
-extends to your Affiliates. In other words, you and your Affiliates will
-be able to access only data that you uploaded to your profile page. Only
-after a new institution grants authorization will you be able to regain
+::: warning NOTE
+Your access to non-public data shared by other Authorized Investigators
+will be suspended when you leave your institution.
+This suspension extends to your Affiliates.
+In other words, you and your Affiliates will be only be able to access data that you uploaded.
+Only after your new institution grants authorization will you be able to regain
 access to non-public data shared by other Authorized Investigators.
+:::
