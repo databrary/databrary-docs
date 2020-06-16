@@ -60,9 +60,9 @@ Databrary has developed boilerplate language that researchers may use in applyin
 ## Lab staff Access Agreement
 
 Authorized Investigators may wish to have their laboratory staff (Affiliates) sign an agreement prior to granting them access to Databrary.
-This template is modeled after the [Databrary Access Agreement(../policies/daa-2020-06-10.md)].
+This template is modeled after the [Databrary Access Agreement](../policies/daa-2020-06-10.md).
 
-- [Lab Staff Agreement](staff-agreement.md)
+- [Lab Staff Agreement](../policies/staff-agreement.md)
 
 ## Data management plan template
 
