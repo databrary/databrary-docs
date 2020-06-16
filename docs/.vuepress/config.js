@@ -4,14 +4,15 @@ module.exports = {
   themeConfig: {
     logo: 'https://nyu.databrary.org/web/images/logo/databrary-nav.svg',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Support', link: '/support/' },
+      { text: 'Home', link: 'https://databrary.org' },
+      { text: 'Resources', link: '/resources/' },
       { text: 'About', link: '/about/' }
     ],
     sidebar: {
-      // support
-      '/support/': [
-        '',
+      // resources
+      '/resources/': [
+        ['', 'Resources'],
+        ['getting_started', 'Getting Started'],
         ['user', 'User Guide'],
         ['institutions', 'Guide for Institutions'],
         ['templates', 'Template documents'],
