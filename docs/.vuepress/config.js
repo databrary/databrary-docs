@@ -22,7 +22,8 @@ module.exports = {
       // about
       '/about/': [
         '',
-        ['team', 'Our Team']
+        ['people', 'People'],
+        ['publications', 'Publications']
       ],
 
       // fallback
